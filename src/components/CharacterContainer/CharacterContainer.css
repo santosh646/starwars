@@ -1,0 +1,11 @@
+.characters-container{
+    margin: 0 auto;
+    width: 30%;
+    margin-top: 5%;
+}
+.characters-header{
+    background-color:#007bff;
+    padding: 1rem;
+    text-align: center;
+
+}

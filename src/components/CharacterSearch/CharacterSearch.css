@@ -1,0 +1,9 @@
+.character-search{
+    border:1px solid black;
+    padding: 10px 10px;
+    background-color: #e9ecef;
+    margin:10px 0 ;
+}
+.character-search-input{
+    width:18.8rem !important;
+}
