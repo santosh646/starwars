@@ -1,6 +1,6 @@
 This project demonstrates my changes starting from [Create React App](https://github.com/facebook/create-react-app) to get to a more production worthy app.
 
-I also updated the initial app to be based off of an article by [DefinedByChoice](https://twitter.com/DefinedByChoice/) that makes an API call for Star Wars characters and lists the characters. This change introduces a real world API call for populating the store, something closer to a real-world business app.
+I also updated the initial app makes an API call for Star Wars characters and lists the characters. This change introduces a real world API call for populating the store, something closer to a real-world business app.
 
 
 | Statements | Branches | Functions | Lines |
